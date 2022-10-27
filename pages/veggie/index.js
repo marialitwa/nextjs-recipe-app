@@ -1,10 +1,11 @@
 import Image from "next/image";
+import styled from "styled-components";
 
 export default function Veggie() {
   return (
     <>
       <h1>Veggie Page</h1>
-      <p>Veggie Menu</p>;
+      <p>Veggie Menu</p>
       <Background>
         <Image
           src="/images/pizza-photo-by-laure-noverraz.jpg"
