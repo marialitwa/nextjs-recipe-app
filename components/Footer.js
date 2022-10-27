@@ -1,3 +1,3 @@
 export default function Footer() {
-  return <p>I'm a Footer</p>;
+  return <p>I&apos;m a Footer</p>;
 }
